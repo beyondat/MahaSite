@@ -1052,6 +1052,16 @@ Forms
 .client-nav > li > a .fa {
 	line-height: 30px;
 }
+
+#clients {
+	background: #000000;
+}
+
+#clients .container .heading div,
+#clients .container .heading h1,
+#clients .container .heading p {
+	color: #ffffff !important;
+}
 /********************************************
 				COLORS AND BACKGROUNDS
 ********************************************/
